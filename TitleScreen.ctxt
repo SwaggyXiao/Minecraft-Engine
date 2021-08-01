@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TitleScreen
+comment0.text=\n\ The\ opneing\ page\ of\ the\ Minecraft\ engine.\n\ \n\ @author\ Xiao\ Zhang\ and\ Delun\ Sun\n\ @version\ 2021.01.28\n
+comment1.params=
+comment1.target=TitleScreen()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TitleScreen.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ to\ check\ if\ buttons\ were\ being\ clicked.\n
+comment3.params=
+comment3.target=void\ userInfo()
+comment3.text=\n\ Save\ user's\ information.\n
+comment4.params=str
+comment4.target=Item\ gettingNameWithNumber(java.lang.String)
+comment4.text=\n\ Return\ the\ item\ with\ name\ and\ number\n\ \n\ @param\ str\ The\ String\ that\ reperesent\ item.\n\ \n\ @return\ The\ item\ being\ returned.\n
+comment5.params=str
+comment5.target=java.lang.String[]\ splitString(java.lang.String)
+comment5.text=\n\ Return\ the\ string\ array\ that\ split\ a\ string.\n\ \n\ @param\ str\ The\ String\ being\ splitted.\n\ \n\ @return\ \ The\ spliited\ string\ being\ returned\ in\ array.\n
+numComments=6

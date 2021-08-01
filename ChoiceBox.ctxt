@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ChoiceBox
+comment0.text=\n\ ChoiceBox\ class\ is\ used\ to\ create\ box\ that\ display\ images\ for\ owned\ items.\n\ \n\ @author\ Xiao\ Zhang\ \n\ @version\ 2021.01.28\n
+comment1.params=
+comment1.target=ChoiceBox()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ChoiceBox.\n\ \ \ \ \ \ \ \n
+comment2.params=itemList
+comment2.target=ChoiceBox(Item[])
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ ChoiceBox.\n\ \ \ \ \ \ \ \n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\n\ Called\ by\ Greenfoot\ when\ an\ object\ of\ this\ class\ is\ added\ to\ \n\ the\ World.\n\ \n\ @param\ w\ The\ World\ being\ added\ to.\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ method\ to\ always\ get\ the\ information\ of\ mouse\ and\ check\ if\ mouse\ is\ clicking.\n
+comment5.params=
+comment5.target=void\ checkClicking()
+comment5.text=\n\ Check\ if\ mouse\ is\ clicking\ choicebox.\n
+comment6.params=
+comment6.target=void\ putSelectingBoxInCorrectPosition()
+comment6.text=\n\ Put\ the\ selected\ box\ in\ correct\ position.\n
+comment7.params=item\ amount
+comment7.target=void\ addObject(java.lang.String,\ int)
+comment7.text=\n\ Add\ items\ into\ choicebox.\n\ \n\ @param\ \ \ item\ \ \ \ The\ name\ of\ the\ item\ being\ added.\n\ @param\ \ \ amount\ \ The\ number\ that\ the\ item\ is\ being\ added.\n
+comment8.params=
+comment8.target=Item[]\ getItemList()
+numComments=9

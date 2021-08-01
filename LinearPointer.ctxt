@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LinearPointer
+comment0.text=\n\ LinearPointer\ class\ is\ used\ to\ create\ and\ return\ distance\ or\ angles\ between\ two\ things.\n\ \n\ @author\ Xiao\ Zhang\n\ @version\ 2021.01.28\n
+comment1.params=
+comment1.target=LinearPointer()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LinearPointer.\n\ \ \ \ \ \ \ \ \ \ \n
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=Objects\ update(int,\ int,\ int,\ int)
+comment2.text=\n\ Return\ the\ updated\ object.\n\ \n\ @param\ x1\ \ \ \ X-coordinate\ of\ location1.\n\ @param\ x2\ \ \ \ X-coordinate\ of\ location2.\n\ @param\ y1\ \ \ \ Y-coordinate\ of\ location1.\n\ @param\ y2\ \ \ \ Y-coordinate\ of\ location2.\n\ \n\ @return\ \ The\ updated\ object.\n
+comment3.params=x1\ x2\ y1\ y2
+comment3.target=double\ getDistance(double,\ double,\ double,\ double)
+comment3.text=\n\ Return\ the\ distances\ between\ two\ things.\n\ \n\ @param\ x1\ \ \ \ X-coordinate\ of\ location1.\n\ @param\ x2\ \ \ \ X-coordinate\ of\ location2.\n\ @param\ y1\ \ \ \ Y-coordinate\ of\ location1.\n\ @param\ y2\ \ \ \ Y-coordinate\ of\ location2.\n\ \n\ @return\ The\ distances\ between\ two\ objects.\n
+comment4.params=x1\ y1\ x\ y
+comment4.target=double\ getDegreesToFrom(double,\ double,\ double,\ double)
+comment4.text=\n\ Return\ the\ degrees\ between\ two\ objects.\n\ \n\ @param\ x1\ \ \ \ X-coordinate\ of\ location1.\n\ @param\ x\ \ \ \ \ X-coordinate\ of\ location2.\n\ @param\ y1\ \ \ \ Y-coordinate\ of\ location1.\n\ @param\ y\ \ \ \ \ Y-coordinate\ of\ location2.\n\ \n\ @return\ The\ degrees\ between\ two\ objects.\n
+numComments=5

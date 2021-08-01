@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SelectingSide
+comment0.text=\n\ Display\ the\ selecting\ slide\ when\ mining.\n\ \n\ @author\ Xiao\ Zhang\n\ @version\ 2021.01.28\n
+comment1.params=i
+comment1.target=SelectingSide(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SelectingSlide.\n\ \n\ @param\ i\ The\ cases\ for\ filling\ the\ selecting\ slide.\n\ \ \ \ \ \ \ \n
+comment2.params=i
+comment2.target=void\ update(int)
+comment2.text=\n\ Update\ the\ selecting\ slide.\n\ \n\ @param\ i\ The\ cases\ for\ filling\ the\ selecting\ slide.\n
+comment3.params=x\ y
+comment3.target=void\ moveSelectingSide(int,\ int)
+comment3.text=\n\ Move\ the\ selecting\ slide\n\ \n\ @param\ x\ Horizontal\ distance\n\ @param\ y\ Vertical\ distance\n
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ Button\ class\ is\ used\ to\ create\ different\ buttons.\n\ \n\ @author\ Xiao\ Zhang\ and\ Delun\ Sun\n\ @version\ 2021.01.28\n
+comment1.params=image
+comment1.target=Button(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Button.\n\ \n\ @param\ \ \ image\ \ \ The\ name\ of\ the\ image.\ \n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ to\ call\ checkMouse()\ method.\n
+comment3.params=
+comment3.target=void\ checkMouse()
+comment3.text=\n\ Check\ if\ mouse\ is\ over\ the\ button.\n
+comment4.params=
+comment4.target=void\ initImages()
+comment4.text=\n\ Set\ the\ initial\ and\ mouseover\ images\ for\ button.\n
+comment5.params=width\ height
+comment5.target=void\ reScale(int,\ int)
+comment5.text=\n\ Rescale\ the\ size\ of\ image.\n\ \n\ @param\ \ \ width\ \ \ The\ new\ width\ of\ image.\n\ @param\ \ \ height\ \ The\ new\ height\ of\ image.\n
+numComments=6

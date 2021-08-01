@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Living
+comment0.text=\n\ Living\ class\ contain\ all\ moving\ objects\ such\ as\ animals\ and\ Steve.\n\ \n\ @author\ Xiao\ Zhang\n\ @version\ 2021.01.28\n
+comment1.params=
+comment1.target=void\ verticleMotion()
+comment1.text=\n\ Verticle\ motion\ of\ living\ things.\n
+comment2.params=
+comment2.target=boolean\ canMoveUp()
+comment2.text=\n\ Return\ whether\ living\ things\ can\ move\ up.\n\ \n\ @return\ \ Whether\ living\ things\ can\ move\ up.\n
+comment3.params=
+comment3.target=boolean\ canMoveRight()
+comment3.text=\n\ Return\ whether\ living\ things\ can\ move\ right.\n\ \n\ @return\ \ Whether\ living\ things\ can\ move\ right.\n
+comment4.params=
+comment4.target=boolean\ canMoveLeft()
+comment4.text=\n\ Return\ whether\ living\ things\ can\ move\ left.\n\ \n\ @return\ \ Whether\ living\ things\ can\ move\ left.\n
+numComments=5

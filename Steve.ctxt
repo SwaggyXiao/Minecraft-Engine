@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Steve
+comment0.text=\n\ Subclass\ of\ Living,\ Stsve\ is\ the\ object\ that\ player\ can\ control.\n\ \n\ @author\ Xiao\ Zhang\n\ @version\ 2021.01.28\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

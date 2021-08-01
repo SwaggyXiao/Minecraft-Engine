@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Recipes
+comment0.text=\n\ Used\ for\ synthese\ items.\n\ \n\ @author\ Xiao\ Zhang\ and\ Delun\ Sun\n\ @version\ 2021.01.28\n
+comment1.params=
+comment1.target=void\ constuctShortToName()
+comment2.params=
+comment2.target=void\ constuctNameToShort()
+comment3.params=str
+comment3.target=java.lang.String\ getKeyShortToName(java.lang.String)
+comment4.params=str
+comment4.target=java.lang.String\ getKeyNameToShort(java.lang.String)
+comment5.params=
+comment5.target=void\ constructBasicRecipes()
+comment5.text=\n\ Add\ all\ basic\ synthesis\ into\ hashmap.\n
+comment6.params=
+comment6.target=void\ constructToolRecipes()
+comment6.text=\n\ Add\ all\ tool\ synthesis\ into\ hashmap.\n
+comment7.params=
+comment7.target=void\ stoveRecipes()
+comment7.text=\n\ Add\ all\ stove\ synthesis\ into\ hashmap.\n
+comment8.params=first\ second
+comment8.target=java.lang.String\ synthesis(java.lang.String,\ java.lang.String)
+comment8.text=\n\ Synthesis\ process\ for\ two\ items.\n\ \n\ @param\ first\ The\ name\ of\ the\ first\ item.\n\ @param\ second\ The\ name\ of\ the\ second\ item.\ \ \ \n
+comment9.params=first\ second\ third\ fourth\ fifth\ sixth\ seventh\ eighth\ ninth
+comment9.target=java.lang.String\ synthesis(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.text=\n\ Synthesis\ process\ for\ nine\ items.\n\ \n\ @param\ first\ The\ name\ of\ the\ first\ item.\n\ @param\ second\ The\ name\ of\ the\ second\ item.\ \n\ @param\ third\ The\ name\ of\ the\ third\ item.\n\ @param\ fourth\ The\ name\ of\ the\ fourth\ item.\n\ @param\ fifth\ The\ name\ of\ the\ fifth\ item.\n\ @param\ sixth\ The\ name\ of\ the\ sixth\ item.\n\ @param\ seventh\ The\ name\ of\ the\ seventh\ item.\n\ @param\ eighth\ The\ name\ of\ the\ eighth\ item.\n\ @param\ ninth\ The\ name\ of\ the\ ninth\ item.\n\ \n
+numComments=10

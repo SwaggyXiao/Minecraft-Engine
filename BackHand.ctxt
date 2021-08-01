@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BackHand
+comment0.text=\n\ Subclass\ of\ SteveHand,\ BackHand\ class\ contains\ behaviors\ for\ Steve's\ back\ hand.\n\ \n\ @author\ Xiao\ Zhang\ \n\ @version\ 2021.01.28\n
+comment1.params=
+comment1.target=BackHand()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BackHand.\n\ \ \ \ \ \ \ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ to\ check\ is\ Steve\ is\ moving.\n
+comment3.params=
+comment3.target=void\ setIsMoving()
+comment3.text=\n\ Set\ whether\ Steve's\ hand\ is\ moving.\n
+comment4.params=starting\ ending
+comment4.target=void\ moving(int,\ int)
+comment4.text=\n\ Move\ Steve's\ back\ hand.\n\ \n\ @param\ \ \ starting\ \ \ \ The\ starting\ position(index).\n\ @param\ \ \ ending\ \ \ \ The\ ending\ position(index).\n
+comment5.params=
+comment5.target=int\ getChange()
+comment5.text=\n\ Return\ the\ change\ of\ Steve's\ back\ hand\ motions.\n\ \n\ @return\ The\ change\ of\ Steve's\ back\ hand\ motions.\n
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\n\ Subclass\ of\ Blocks,\ Background\ class\ contains\ all\ object\ of\ backgrounds.\n\ \n\ @author\ Xiao\ Zhang\ \n\ @version\ 2021.01.28\n
+comment1.params=imageName\ x\ y
+comment1.target=Background(java.lang.String,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Background.\n\ \n\ @param\ \ \ imageName\ \ \ The\ name\ of\ the\ background\ image.\n\ @param\ \ \ x\ \ \ X-coordinate\ background\ will\ be\ created.\n\ @param\ \ \ y\ \ \ Y-coordinate\ background\ will\ be\ created.\n\ \n
+numComments=2

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FrontHand
+comment0.text=\n\ Subclass\ of\ SteveHand,\ FrontHand\ class\ contains\ behaviors\ for\ Steve's\ front\ hand.\n\ \n\ @author\ Xiao\ Zhang\n\ @version\ 2021.01.28\n
+comment1.params=
+comment1.target=FrontHand()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ FrontHand.\n\ \ \ \ \ \ \ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ to\ check\ for\ Steve's\ front\ hand\ mostions.\n
+comment3.params=starting\ ending
+comment3.target=void\ moving(int,\ int)
+comment3.text=\n\ Move\ Steve's\ front\ hand.\n\ \n\ @param\ \ \ starting\ \ \ \ The\ starting\ position(index).\n\ @param\ \ \ ending\ \ \ \ The\ ending\ position(index).\n
+comment4.params=starting\ ending
+comment4.target=void\ movingForMining(int,\ int)
+comment4.text=\n\ Move\ Steve's\ front\ hand\ for\ mining.\n\ \n\ @param\ \ \ starting\ \ \ \ The\ starting\ position(index).\n\ @param\ \ \ ending\ \ \ \ The\ ending\ position(index).\n
+comment5.params=
+comment5.target=void\ checkMousePressing()
+comment5.text=\n\ Check\ if\ mouse\ is\ pressing.\n
+comment6.params=
+comment6.target=void\ setIsMoving()
+comment6.text=\n\ Set\ whether\ Steve\ is\ moving.\n
+comment7.params=
+comment7.target=void\ reverse()
+comment7.text=\n\ Reverse\ the\ direction\ of\ Steve's\ front\ hand.\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Logo
+comment0.text=\n\ The\ Logo\ class\ contains\ objects\ of\ logo\ used\ in\ title\ page.\n\ \n\ @author\ Xiao\ Zhang\n\ @version\ 2021.01.28\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ LOGO\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2
